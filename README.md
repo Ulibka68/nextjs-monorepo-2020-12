@@ -1,3 +1,6 @@
+# Описано в статье
+https://javascript.plainenglish.io/building-a-nextjs-monorepo-ecd21ac04928
+
 # monorepo
 
 This is a Frontend monorepo template for NextJS applications.
